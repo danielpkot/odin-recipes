@@ -1,0 +1,38 @@
+h1 {
+    text-align: center;
+    font-family: "Times New Roman",verdana,sans-serif;
+
+}
+
+
+.img{
+    text-align: center;
+    height: 350;
+    width: auto;
+}
+
+h2 {
+    text-align: center;
+    font-family: "Courier New",verdana,sans-serif;
+}
+
+ul{
+    text-align: center;
+    list-style-type: none;
+    padding-left: 10px;
+    font-family: "Times New roman",verdana,sans-serif;
+    font-style: italic;
+
+}
+
+p{
+    text-align: center;
+    font-family: "Times New Roman",verdana,sans-serif; 
+    font-style: italic;
+}
+
+ol{
+    font-family: "Times New Roman",verdana,sans-serif;
+    font-style: italic;
+
+}
