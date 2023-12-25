@@ -1,19 +1,27 @@
+html{
+    background-color: bisque;
+}
+
 h1 {
     text-align: center;
     font-family: "Times New Roman",verdana,sans-serif;
+    font-size: 64px;
 
 }
 
 
 .img{
+    display: block;
     text-align: center;
-    height: 350;
-    width: auto;
+    width: 350px;
+    height:auto;
+    margin:auto
 }
 
 h2 {
     text-align: center;
     font-family: "Courier New",verdana,sans-serif;
+    font-size: 44px;
 }
 
 ul{
@@ -34,5 +42,23 @@ p{
 ol{
     font-family: "Times New Roman",verdana,sans-serif;
     font-style: italic;
+
+}
+
+.link{
+    display: block;
+    padding: 10px;
+    background-color: rgba(128, 221, 237, 0.8);
+    border: 5px black solid;
+    width: 200px;
+    margin: 20px auto;
+
+}
+
+.homepage-link{
+    display: inline-block;
+    background-color: rgba(218, 223, 224 0.9);
+    margin: 20px;
+    
 
 }
